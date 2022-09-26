@@ -19,5 +19,9 @@
 ### 讀取鏡頭畫面
 ## write.py
 ### 畫面繪圖
+## car.py
+### 汽車照片辨識
+## project2.py
+### 人臉辨識+汽車辨識
 #### pip install opencv-python 去引入模組
 #### *.xml 為你要的訓練模板
