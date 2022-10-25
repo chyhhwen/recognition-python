@@ -1,4 +1,4 @@
-# 人臉辨識練習
+# 影像辨識練習(使用PYTHON)
 `black.py` 照片灰階\
 `contours.py` 判斷輪廓，為何種形狀\
 `detect.py` 調整照片值，為你要的範圍\
